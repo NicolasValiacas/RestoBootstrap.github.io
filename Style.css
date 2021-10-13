@@ -1,0 +1,55 @@
+
+.Image-fond{
+    background: url('Images/GREEK\ FOOD.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.Nea{
+    font-family: 'GFS Didot', serif;
+}
+
+.jumbotron {
+    min-width: 585px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    margin: 0px 10px 10px 10px;
+}
+
+.Jumbo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ImgJumbo{
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.ImgJumbo2{
+    display: flex;
+}
+
+.img-fluid1{
+    height: 400px;
+    width: 550px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.map-container-5{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.map-container-5 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
